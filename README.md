@@ -1,2 +1,4 @@
 # ball-game
-Web Wire - BALL GAME using HTML, CSS and JAVASCRIPT
+WEB WIRE - BALL GAME using HTML, CSS and JAVASCRIPT
+
+https://itsaditisaraswat.github.io/ball-game/
